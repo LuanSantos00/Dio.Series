@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z7JIKruZh9C2kp+a1nh6fnota72rGVzc2K4EkJFtnvsWGKQ/WwarX4tM8sgSymDe+6721JhMmxg37M7ZV6g/SA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luanc\\Documents\\.net\\DIO.Series\\DIO.Series\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
